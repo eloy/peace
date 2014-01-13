@@ -1,0 +1,1 @@
+b = () -> console.log "bbbb"
